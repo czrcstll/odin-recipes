@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+.main-banner{
+    font-size: 72px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.recipes{
+    margin: 20px 50px;
+    flex-direction: column;
+}
+
+.recipes img{
+    width: 400px;
+    height: auto;
+}
